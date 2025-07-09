@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
     AccessibilityMenu \
     AvatarPicker \
     Launcher3QuickStep \
+    WaferLauncher \
     Provision \
     Settings \
     StorageManager \
