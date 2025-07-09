@@ -25,6 +25,7 @@ PRODUCT_PACKAGES += \
     AccessibilityMenu \
     $(if $(RELEASE_AVATAR_PICKER_APP), AvatarPicker,) \
     Launcher3QuickStep \
+    WaferLauncher \
     Provision \
     Settings \
     StorageManager \

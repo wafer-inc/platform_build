@@ -282,6 +282,7 @@ PRODUCT_PACKAGES += \
     surfaceflinger \
     svc \
     system-build.prop \
+    switchboard_server \
     task_profiles.json \
     tc \
     telecom \
