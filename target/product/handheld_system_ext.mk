@@ -25,8 +25,6 @@ PRODUCT_PACKAGES += \
     AccessibilityMenu \
     Launcher3QuickStep \
     WaferLauncher \
-    WaferWizard \
-    Provision \
     Settings \
     StorageManager \
     SystemUI \
