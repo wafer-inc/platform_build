@@ -1177,6 +1177,10 @@ unset tomlgrep
 unset treegrep
 
 
+# Wafer: convenience aliases for adevtool (used during A16 vendor extraction).
+alias adevtool='vendor/adevtool/bin/run'
+alias adto='vendor/adevtool/bin/run'
+
 validate_current_shell
 set_global_paths
 source_vendorsetup
